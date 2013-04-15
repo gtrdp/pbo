@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<db>
+	<sdb>
+		<Nama>Guntur</Nama>
+		<Alamat><![CDATA[Monjali 78]]></Alamat>
+		<TanggalLahir>6 MARET 1982</TanggalLahir>
+		<Prodi>TI</Prodi>
+	</sdb>
+	<sdb>
+		<Nama>guntur2</Nama>
+		<Alamat><![CDATA[monjali jgua]]></Alamat>
+		<TanggalLahir>3 MEI 1984</TanggalLahir>
+		<Prodi>TE</Prodi>
+	</sdb>
+	<sdb>
+		<Nama>Nama Mahasiswa</Nama>
+		<Alamat><![CDATA[Jalan monjali 78]]></Alamat>
+		<TanggalLahir>13 APRIL 1991</TanggalLahir>
+		<Prodi>TE</Prodi>
+	</sdb>
+</db>
